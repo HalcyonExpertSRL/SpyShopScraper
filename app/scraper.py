@@ -23,10 +23,8 @@ csv = saveCSV.CSV()
 
 
 listUrls = requestInstanceCSV.getUrls(URL)
-'''
+
 for item in listUrls:
     csv.checkAttr(item)
-'''
-csv.saveToJson()
 
 

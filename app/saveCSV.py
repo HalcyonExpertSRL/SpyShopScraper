@@ -1,6 +1,6 @@
 import saveProducts
 import pandas as pd
-import json
+
 class CSV():
     def checkAttr(self, URL):
         try:
@@ -28,23 +28,3 @@ class CSV():
             return "Merged lines and saved to merged.csv"
         except Exception as e:
             return f"Error occurred: {str(e)}"
-
-    def saveToJson(self):
-                    try:
-                        data = []
-                        with open('test.csv', 'r') as file:
-                            lines = file.readlines()
-                        for line in lines:
-                            values = line.strip().split(',')
-                            if len(values) == 3:
-                                item = {
-                                    'id': values[0],
-                                    'name': values[1],
-                                    'price': values[2]
-                                }
-                                data.append(item)
-                        with open('result.json', 'w') as file:
-                            json.dump(data, file)
-                        return "Saved result to result.json"
-                    except Exception as e:
-                        return f"Error occurred: {str(e)}"
