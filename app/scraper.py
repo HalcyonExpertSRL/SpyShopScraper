@@ -20,4 +20,3 @@ isntance =  getUrls.Urls()
 
 x = isntance.getUrls(URL)
 print(x) 
-isntance.getUrls(URL)

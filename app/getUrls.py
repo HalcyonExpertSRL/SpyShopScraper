@@ -7,9 +7,8 @@ class Urls():
         requestInstance = htmlget.Request()
         htmlText = requestInstance.url(URL)
         soup = BeautifulSoup(htmlText, 'html.parser') 
-        href_labels = soup.find_all('a') 
-        content_list = [] 
-        for label in href_labels: 
-            content_list.append(label.text) 
-            print(content_list)
-
+        urls = []
+        for a in soup.find_all('a', href=True):
+            if a['href'].startswith('https'):
+                urls.append(a['href'])
+        return urls

@@ -5,7 +5,6 @@ class getProduct():
     def getProductBulk(self, URL):
         requestInstance = htmlget.Request()
         htmlText = requestInstance.url(URL)
-
         soup = BeautifulSoup(htmlText, 'html.parser')
         script_tag = soup.find('script', text=lambda t: t and 'window.CategoryFilteredProducts.push' in t)
 
