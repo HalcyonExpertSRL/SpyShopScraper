@@ -1,9 +1,11 @@
 import calculate
 import saveProducts
 import saveCSV
+import htmlget
+import getUrls
+URL = "https://www.spy-shop.ro"
 
-URL = "https://www.spy-shop.ro/supraveghere-video/sisteme-supraveghere-exterior.html?limit=80"
-
+'''
 products = saveProducts.getProduct()
 requestInstance = calculate.Paginas()
 csv = saveCSV.CSV()
@@ -13,4 +15,9 @@ csv = saveCSV.CSV()
 
 x = csv.checkAttr(URL)
 csv.mergeLines()
-print(x)
+'''
+isntance =  getUrls.Urls()
+
+x = isntance.getUrls(URL)
+print(x) 
+isntance.getUrls(URL)
