@@ -18,9 +18,10 @@ class Paginas():
         list = []
         target_div = str(target_div)
         for number in target_div.split():
-            try: 
+            try:
                 list.append(int(number))
             except ValueError:
                 pass
         list = int(list[0])
         return list
+    

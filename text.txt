@@ -1,0 +1,1299 @@
+ ga ) {
+            ga("require", "displayfeatures");
+            ga("require", "ec", "ec.js");
+        }*/
+
+        var $t_jQuery = jQuery.noConflict();
+
+    
+
+    
+
+    
+        window.CategoryFilteredProducts = window.CategoryFilteredProducts || [];
+
+        
+        
+            
+                        t_product_real_url_hash = "46aa1c91f5b45e262758dafdab1a2af2";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'HW-4EXTIR20-5MP',
+                'name': 'Sistem supraveghere exterior basic Hikvision HiWatch HW-4EXTIR20-5MP, 4 camere, 5 MP, 2.8 mm, IR 20 m',
+                'price': '585.3491',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '1',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "4389bedc05850aac21a8cce0b665b6b3";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'DH-M4EXTIR80-5MP-M',
+                'name': 'Sistem supraveghere exterior middle Dahua DH-M4EXTIR80-5MP-M, 4 camere, 5 MP, IR 80 m, 3.6 mm, HDD 1 TB',
+                'price': '1080.7668',
+                'list': 'Promotie sisteme supraveghere',
+
+                //'category': 'Sisteme Supraveghere Exterior/Promotie sisteme supraveghere/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '2',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "ec5a55bc20187cc81802c5ad97f0198c";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'DH-M4EXTIRALB20-5MP-M',
+                'name': 'Sistem supraveghere exterior middle Dahua DH-M4EXTIRALB20-5MP-M, 4 camere, 5 MP, IR/lumina alba 20 m, 2.8 mm, microfon, POS, IoT, HDD 1TB',
+                'price': '971.1442',
+                'list': 'Promotie sisteme supraveghere',
+
+                //'category': 'Sisteme Supraveghere Exterior/Promotie sisteme supraveghere/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '3',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "235fefab1f19e40263c8adf21357ca99";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'DH-M4EXTIR80-4K-M',
+                'name': 'Sistem supraveghere exterior middle Dahua DH-M4EXTIR80-4K-M, 4 camere, 8 MP, IR 80 m, 3.6 mm, HDD 1 TB',
+                'price': '1312.8530',
+                'list': 'Promotie sisteme supraveghere',
+
+                //'category': 'Sisteme Supraveghere Exterior/Promotie sisteme supraveghere/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '4',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "3d2893e536cae9f8db14d1f181345d65";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'HW-4MXTIR20-5MP',
+                'name': 'Sistem supraveghere mixt basic Hikvision HiWatch HW-4MXTIR20-5MP, 4 camere 5 MP, 2.8 mm, IR 20 ',
+                'price': '601.9783',
+                'list': 'Sisteme Supraveghere Interior',
+
+                //'category': 'Sisteme Supraveghere Exterior/Sisteme Supraveghere Interior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '5',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "e0b24272086698ae5e11203d63280263";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'ACVDH-B4EXTIR20-5MP',
+                'name': 'Sistem supraveghere exterior basic Acvil B4EXTIR20-5MP, 4 camere, 5MP, IR 20m, 2.8 mm',
+                'price': '612.3981',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '6',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "164affd444d17daaa39cc8d00e09dda8";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'DH-M4EXTIRALB40-5MP-M',
+                'name': 'Sistem supraveghere exterior middle Dahua DH-M4EXTIRALB40-5MP-M, 4 camere, 5 MP, IR/lumina alba 40 m, 3.6 mm, microfon, POS, IoT, HDD 1TB',
+                'price': '1061.5574',
+                'list': 'Promotie sisteme supraveghere',
+
+                //'category': 'Sisteme Supraveghere Exterior/Promotie sisteme supraveghere/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '7',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "45fa51942f04043fe3b73bc3cf165dd9";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'HW-4EXTIR20-2MP',
+                'name': 'Sistem supraveghere exterior basic Hikvision HiWatch HW-4EXTIR20-2MP, 4 camere 2 MP, IR 20, 2.8 mm',
+                'price': '448.1193',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '8',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "a49e27139a3165793c117a54d742965b";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'HW-8EXTIR20-2MP',
+                'name': 'Sistem supraveghere exterior basic Hikvision HiWatch HW-8EXTIR20-2MP, 2 MP, 8 camere, 2.8 mm, IR 20 m',
+                'price': '765.8341',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '9',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "b728a908e9a6f60514a3d4e404a606c9";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'ACVDH-B4EXTIR20-8MP',
+                'name': 'Sistem supraveghere exterior Dahua Acvil ACVDH-B4EXTIR20-8MP, 2.8 mm, 8 MP, IR 20 m',
+                'price': '655.1866',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '10',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "0a5057349773c8a12a8799a98e3c31f3";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'HW-8EXTIR20-5MP',
+                'name': 'Sistem supraveghere exterior basic Hikvision HiWatch HW-8EXTIR20-5MP, 5 MP, IR 20 m, 8 camere, 2.8 mm',
+                'price': '1049.8656',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '11',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "25ffe89835aae0d19e8227371384cc09";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'DH-M4EXTFC40-5MP-M',
+                'name': 'Sistem supraveghere exterior middle Dahua DH-M4EXTFC40-5MP-M, 5 M-N, 4 canale, 5 MP, lumina alba 40 m, 3.6 mm, microfon, HDD 1TB ',
+                'price': '1323.8902',
+                'list': 'Promotie sisteme supraveghere',
+
+                //'category': 'Sisteme Supraveghere Exterior/Promotie sisteme supraveghere/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '12',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "14a3848cf830dc4eb65fafc309fcfbc3";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'DH-4EXTIR20-2MP',
+                'name': 'Sistem supraveghere exterior basic Dahua DH-4EXTIR20-2MP, 4 camere, 2 MP, 3.6 mm, IR 20 m',
+                'price': '465.6672',
+                'list': 'Promotie sisteme supraveghere',
+
+                //'category': 'Sisteme Supraveghere Exterior/Promotie sisteme supraveghere/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '13',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "df36ebe5b92bb6cdbe52d10810219c44";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'HW-8MXTIR20-4MP',
+                'name': 'Sistem supraveghere mixt Hikvision HiWatch HW-8MXTIR20, 4 camere exterior / 4 camere interior, 4 MP, 2.8 mm, IR 20',
+                'price': '1103.9848',
+                'list': 'Sisteme Supraveghere Interior',
+
+                //'category': 'Sisteme Supraveghere Exterior/Sisteme Supraveghere Interior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '14',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "f9a3dd44f39a4b119b0498910fee2e25";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'HW-8MXTIR20-2MP',
+                'name': 'Sistem supraveghere mixt Hikvision HiWatch HW-8MXTIR20-2MP, 4 camere exterior / 4 camere interior, 2 MP, 2.8 mm, IR 20',
+                'price': '687.5984',
+                'list': 'Sisteme Supraveghere Interior',
+
+                //'category': 'Sisteme Supraveghere Exterior/Sisteme Supraveghere Interior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '15',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "282598dc9ccf8b5084b786cec845241d";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'ACV-B8EXTIR20-8MP',
+                'name': 'Sistem supraveghere exterior Acvil B8EXTIR20-8MP, 8 camere, 8 MP, IR 20 m, 2.8 mm',
+                'price': '1602.0176',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '16',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "912ac5a17cc32f8d841e9a93a9f4aa5c";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'DH-M4EXTIR80-5MP',
+                'name': 'Sistem supraveghere exterior middle Dahua DH-M4EXTIR80-5MP, 5 M-N, 4 canale, 5 MP, IR 80 m, 3.6 mm, HDD 1TB   ',
+                'price': '1041.2999',
+                'list': 'Promotie sisteme supraveghere',
+
+                //'category': 'Sisteme Supraveghere Exterior/Promotie sisteme supraveghere/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '17',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "c068488978f6bef4e4bf6bcaea57c9c6";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'DH-M4EXTIR30-2MP',
+                'name': 'Sistem supraveghere exterior middle Dahua DH-M4EXTIR30-2MP, 4 camere, 2 MP, 2.8 mm, IR 30 m, HDD 1TB',
+                'price': '799.9085',
+                'list': 'Promotie sisteme supraveghere',
+
+                //'category': 'Sisteme Supraveghere Exterior/Promotie sisteme supraveghere/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '18',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "f5f281f548cfd2a8b247ec25b104ba16";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'DH-M4EXTIR80-2MP',
+                'name': 'Sistem supraveghere exterior middle Dahua DH-M4EXTIR80-2MP, 5 M-N, 4 canale, 2 MP, IR 80 m, 3.6 mm, HDD 1TB  ',
+                'price': '1007.4185',
+                'list': 'Promotie sisteme supraveghere',
+
+                //'category': 'Sisteme Supraveghere Exterior/Promotie sisteme supraveghere/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '19',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "4a676894068bd97e165c3b32f429c57f";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'DH-M4EXTFC40-4K-M',
+                'name': 'Sistem supraveghere exterior middle Dahua DH-M4EXTFC40-4K-M, 8 MP, lumina alba 40 m, 3.6 mm, 1 TB HDD, IoT, POS',
+                'price': '1911.1558',
+                'list': 'Promotie sisteme supraveghere',
+
+                //'category': 'Sisteme Supraveghere Exterior/Promotie sisteme supraveghere/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '20',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "6b6183d182d2e04274d90aa5129adc9c";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'DH-M4EXTIR80-4K',
+                'name': 'Sistem supraveghere exterior middle Dahua DH-M4EXTIR80-4K, 8 MP, IR 80 m, 3.6 mm, 1 TB HDD, IoT, POS',
+                'price': '1481.7920',
+                'list': 'Promotie sisteme supraveghere',
+
+                //'category': 'Sisteme Supraveghere Exterior/Promotie sisteme supraveghere/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '21',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "66c859420c737d24ce58ce413ab4a8f2";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'ACVDH-B4EXTIR40-8MP',
+                'name': 'Sistem supraveghere exterior Dahua Acvil ACVDH-B4EXTIR40-8MP, 2.8 mm, 8 MP, IR 40 m',
+                'price': '941.2786',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '22',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "c8d25a0c85af8a7a4246253d63971679";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'DH-M4XTIR20-4K',
+                'name': 'Sistem supraveghere exterior middle Dahua DH-M4XTIR20-4K, 8 MP, IR 20 m, 2.8 mm, 1 TB HDD, IoT, POS',
+                'price': '1139.8834',
+                'list': 'Promotie sisteme supraveghere',
+
+                //'category': 'Sisteme Supraveghere Exterior/Promotie sisteme supraveghere/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '23',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "9065f4bb28a482ed1c282b4ccff15c95";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'HW-4MXTIR20-2MP',
+                'name': 'Sistem supraveghere mixt basic Hikvision HiWatch HW-4MXTIR20-2MP, 4 camere, 2 MP, 2.8 mm, IR 20 m',
+                'price': '409.4310',
+                'list': 'Sisteme Supraveghere Interior',
+
+                //'category': 'Sisteme Supraveghere Exterior/Sisteme Supraveghere Interior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '24',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "31e64b2dafb6fd2a5f8eb802e48f1125";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'ACVDH-B4EXTIR40-2MP-V2',
+                'name': 'Sistem supraveghere exterior basic Acvil B4EXTIR40-2MP-V2, 4 camere, 2MP, IR 40m, 2.8 mm',
+                'price': '723.4568',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '25',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "b9752778418f7365405c44178fcc292f";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'ACVDH-B8EXTIR20-5MP',
+                'name': 'Sistem supraveghere exterior basic Acvil B8EXTIR20-5MP, 8 camere, 5MP, IR 20m, 2.8 mm',
+                'price': '1074.3965',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '26',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "0c85e6bc12045d27f624b86d4f82c3fd";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'DH-4EXTIR20-2MP-1TB',
+                'name': 'Sistem supraveghere exterior basic Dahua DH-4EXTIR20-2MP-1TB, 4 camere, 2 MP, 3.6 mm, IR 20 m, HDD 1TB',
+                'price': '716.5757',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '27',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "3d07c3f0a8cb4599d94b061c43cf11dd";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'DH-M4EXTIR20-2MP',
+                'name': 'Sistem supraveghere exterior middle Dahua DH-M4EXTIR20-2MP, 4 camere, 2 MP,  2.8 mm, IR 20 m, HDD 1TB',
+                'price': '824.5316',
+                'list': 'Promotie sisteme supraveghere',
+
+                //'category': 'Sisteme Supraveghere Exterior/Promotie sisteme supraveghere/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '28',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "a996652522b9e3b35ed1753dd8b19356";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'DH-4MXTIR20-2MP-1TB',
+                'name': 'Sistem supraveghere mixt Dahua DH-4MXTIR20-2MP-1TB, 2 MP, 2.8/3.6 mm, IR 20 m, HDD 1 TB',
+                'price': '716.9688',
+                'list': 'Sisteme Supraveghere Interior',
+
+                //'category': 'Sisteme Supraveghere Exterior/Sisteme Supraveghere Interior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '29',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "ada1db55999ecc1d77626a463320355b";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'ACV-B4EXTIR60-8MP-M',
+                'name': 'Sistem supraveghere IP exterior basic Dahua ACV-B4EXTIR60-8MP-M 8 MP, 3.6 mm, IR 60 / lumina calda 50 m, 4 camere',
+                'price': '2273.5507',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '30',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "9ddf1b989ec0300dfd8d21cc7ef55bf7";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'ACVDH-B4EXTIR80-2MP-M',
+                'name': 'Sistem supraveghere exterior basic Acvil B4EXTIR80-2MP-M, 4 camere, 2MP, IR 80m, 3.6 mm, microfon',
+                'price': '795.1510',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '31',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "71a2df7b77f1f64804792496dafa1da0";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'DH-M4EXTFC40-2MP-M',
+                'name': 'Sistem supraveghere exterior middle Dahua DH-M4EXTFC40-2MP-M, 4 camere, 2 MP, lumina alba 40 m, 3.6 mm, microfon, POS, IoT, HDD 1TB',
+                'price': '1110.9001',
+                'list': 'Promotie sisteme supraveghere',
+
+                //'category': 'Sisteme Supraveghere Exterior/Promotie sisteme supraveghere/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '32',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "dfa71eb5f0a4ee22e04d73745823ba75";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'DH-M4EXTIR80-2MP-M',
+                'name': 'Sistem supraveghere exterior middle Dahua DH-M4EXTIR80-2MP-M, 5 M-N, 4 canale, 2 MP, IR 80 m, 3.6 mm, microfon, HDD 1TB',
+                'price': '1014.6745',
+                'list': 'Promotie sisteme supraveghere',
+
+                //'category': 'Sisteme Supraveghere Exterior/Promotie sisteme supraveghere/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '33',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "c08ae4a400caa23e668036b1ef7e42d2";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'DH-M4EXTIR30-4K-M',
+                'name': 'Sistem supraveghere exterior middle Dahua DH-M4EXTIR30-4K-M, 4 camere, 8 MP, IR 30 m, 2.8 mm, HDD 1 TB',
+                'price': '1266.0360',
+                'list': 'Promotie sisteme supraveghere',
+
+                //'category': 'Sisteme Supraveghere Exterior/Promotie sisteme supraveghere/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '34',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "274f5ac912496a4457a82d436f012001";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': ' DH-4MXTIR20-2MP-A-1TB',
+                'name': 'Sistem supraveghere mixt Dahua DH-4MXTIR20-2MP-A-1TB, 2 MP, 2.8/3.6 mm, IR 20 m, microfon, HDD 1 TB',
+                'price': '746.0135',
+                'list': 'Sisteme Supraveghere Interior',
+
+                //'category': 'Sisteme Supraveghere Exterior/Sisteme Supraveghere Interior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '35',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "fcbbc4ba5fca5ccaabd638f65cbd3705";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'ACVDH-B4EXTIR40-2MP',
+                'name': 'Sistem supraveghere exterior basic Acvil B4EXTIR40-2MP, 4 camere, 2MP, IR 40m, 2.8 mm',
+                'price': '535.7453',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '36',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "759f542fc41b45ac338c981aca6172b5";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'HK-4EXT40M-2MP-1TB-V2',
+                'name': 'Sistem supraveghere exterior Hikvision TurboHD HK-4EXT40M-2MP-1TB-V2, 4 camere, 2 MP, IR 40 m, 2.8 mm, HDD 1TB',
+                'price': '1152.7906',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '37',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "ff781fef9748867a202338a73c282fb0";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'ACVDH-B16EXTIR40-5MP-M',
+                'name': 'Sistem supraveghere exterior basic Acvil B16EXTIR40-5MP-M, 16 camere, 5 MP, IR 40 m, 3.6 mm, sirena, microfon',
+                'price': '5920.1959',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '38',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "43eda9ceb95f632275e16bff8004f20b";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'ACVDH-B16EXTIR40-2MP-V2',
+                'name': 'Sistem supraveghere exterior basic Acvil B16EXTIR40-2MP-V2, 16 camere, 2MP, IR 40m, 2.8 mm',
+                'price': '3319.3056',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '39',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "be193623aec1fa6c4061b8c27e6041a3";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'ACVDH-B8EXTALB40-5MP-M',
+                'name': 'Sistem supraveghere exterior basic Acvil Dahua ACVDH-B8EXTALB40-5MP-M, 8 camere, POS, IoT, 5 MP, lumina alba 40 m, 3.6 mm, microfon',
+                'price': '1759.9718',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '40',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "32ef2f02ddf3bd81def382b6f0d49ed5";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'DH-M4EXTIRALB40-2MP-M',
+                'name': 'Sistem supraveghere exterior middle Dahua DH-M4EXTIRALB40-2MP-M, 4 camere, 2 MP, 3.6 mm, IR/lumina alba 40 m, microfon, HDD 1TB',
+                'price': '912.3599',
+                'list': 'Promotie sisteme supraveghere',
+
+                //'category': 'Sisteme Supraveghere Exterior/Promotie sisteme supraveghere/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '41',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "21883b7ed7cb01ad330d0cc631be1458";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'ACV-B8EXTIR40-8MP',
+                'name': 'Sistem supraveghere exterior Dahua Acvil ACV-B8EXTIR40-8MP, 2.8 mm, 8 MP, IR 40 m',
+                'price': '1765.2763',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '42',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "a96f611c4e663b9bbbc29053eef8d5f7";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'ACVDH-B16EXTIR40-2MP',
+                'name': 'Sistem supraveghere exterior basic Acvil B16EXTIR40-2MP, 16 camere, 2MP, IR 40m, 2.8 mm',
+                'price': '2569.0252',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '43',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "082df6156178fff8ac50808bc6ee6e41";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'DH-M4EXTIR30-5MP',
+                'name': 'Sistem supraveghere exterior middle Dahua DH-M4EXTIR30-5MP, 4 camere, 5 MP, 2.8 mm, IR 30 m, HDD 1TB',
+                'price': '964.2891',
+                'list': 'Promotie sisteme supraveghere',
+
+                //'category': 'Sisteme Supraveghere Exterior/Promotie sisteme supraveghere/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '44',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "17a2a141ba904c8193467df2cdc46e8c";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'ACVDH-B8EXTIR40-2MP-V2',
+                'name': 'Sistem supraveghere exterior basic Acvil B8EXTIR40-2MP-V2, 8 camere, 2MP, IR 40m, 2.8 mm',
+                'price': '1296.7679',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '45',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "4642e7be0409a6f243d14cb92b7f95e7";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'DH-4EXTIR20-2MP-A-1TB',
+                'name': 'Sistem supraveghere exterior basic Dahua DH-4EXTIR20-2MP-A-1TB, 4 camere, 2 MP, 3.6 mm, IR 20 m, microfon, HDD 1TB',
+                'price': '744.5264',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '46',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "2d0c0045f3034988866c711814f7edc0";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'HK-4EXT40M-2MP-1TB',
+                'name': 'Sistem supraveghere exterior basic Hikvision Turbo HD HK-4EXT40M-2MP-1TB, 4 camere, 2 MP, IR 40 m, 2.8 mm, HDD 1TB',
+                'price': '1119.8410',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '47',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "25d01b2d5bc73290d2cec77dc1285895";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'DH-M4EXTIRALB40-4K-M',
+                'name': 'Sistem supraveghere exterior middle Dahua DH-M4EXTIRALB40-4K-M, 4K, IR/lumina alba 40 m, 3.6 mm, HDD 1 TB',
+                'price': '1767.2108',
+                'list': 'Promotie sisteme supraveghere',
+
+                //'category': 'Sisteme Supraveghere Exterior/Sisteme supraveghere video/Promotie sisteme supraveghere/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '48',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "3e3128a6b25595ab7c094f52e93d5820";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'ACVDH-B8EXTIR40-2MP',
+                'name': 'Sistem supraveghere exterior basic Acvil B8EXTIR40-2MP, 8 camere, 2MP, IR 40m, 2.8 mm',
+                'price': '923.6513',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '49',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "48fb066250f46f5185d57791841ca471";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'ACVDH-B4EXTIR40-5MP-M',
+                'name': 'Sistem supraveghere exterior basic Acvil B4EXTIR40-5MP-M, 4 camere, 5 MP, IR 40 m, 3.6 mm, sirena, microfon',
+                'price': '1374.9649',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '50',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "764bd921368e8f305abdb9c0cbafe267";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'DH-4EXTIR20-2MP-A',
+                'name': 'Sistem supraveghere exterior basic Dahua DH-4EXTIR20-2MP-A, 4 camere, 2 MP, 3.6 mm, IR 20 m, microfon',
+                'price': '484.2255',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '51',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "6cd0102599201ad7c9aca6de83c912b5";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'ACVDH-B16EXTIR80-2MP-M',
+                'name': 'Sistem supraveghere exterior basic Acvil B16EXTIR80-2MP-M, 16 camere, 2MP, IR 80m, 3.6 mm, microfon',
+                'price': '3605.5344',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '52',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "21ed08792490be204a611b27a0c583a6";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'ACVDH-B8EXTDUAL40-2MP',
+                'name': 'Sistem supraveghere exterior basic Dual Light Acvil Dahua ACVDH-B8EXTDUAL40-2MP, 8 camere, POS, IoT, 2 MP, IR/lumina alba 40 m, 3.6 mm',
+                'price': '1264.5370',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '53',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "9e3c0d1d18d4f4dd37363c0bbd3180ae";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'ACVDH-B8EXTIR40-5MP-M',
+                'name': 'Sistem supraveghere exterior basic Acvil B8EXTIR40-5MP-M, 8 camere, 5 MP, IR 40 m, 3.6 mm, sirena, microfon',
+                'price': '2599.9118',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '54',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "1f2d188747dec20c7d1b8873656bfbef";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'ACVDH-B16EXTIR20-5MP',
+                'name': 'Sistem supraveghere exterior basic Acvil B16EXTIR20-5MP, 16 camere, 5MP, IR 20m, 2.8 mm',
+                'price': '2875.5225',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '55',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "0d71da15284e363e1b25efc8dfb067d0";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'ACVDH-B8EXTIR80-2MP',
+                'name': 'Sistem supraveghere exterior basic Acvil Dahua ACVDH-B8EXTIR80-2MP, 8 camere, POS, IoT, 2 MP, IR 80 m, 3.6 mm',
+                'price': '1340.8011',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '56',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "daf891c6e98fe850af34c2f4c4cfde39";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'DH-M4EXTIRALB20-2MP-M',
+                'name': 'Sistem supraveghere exterior middle Dahua DH-M4EXTIRALB20-2MP-M, 4 camere, 2 MP, 2.8 mm, IR/lumina alba 20 m, microfon, HDD 1TB',
+                'price': '867.0955',
+                'list': 'Promotie sisteme supraveghere',
+
+                //'category': 'Sisteme Supraveghere Exterior/Promotie sisteme supraveghere/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '57',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "74a116a226e4f44396a915336026b480";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'ACVDH-B8EXTIR80-2MP-M',
+                'name': 'Sistem supraveghere exterior basic Acvil B8EXTIR80-2MP-M, 8 camere, 2MP, IR 80m, 3.6 mm, microfon',
+                'price': '1439.7426',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '58',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "fb2c50d649c49129602e883f33dff8b8";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'ACVDH-B8EXTIR80-5MP-M',
+                'name': 'Sistem supraveghere exterior basic Acvil Dahua ACVDH-B8EXTIR80-5MP-M, 8 canale, POS, IoT, 5 MP, IR 80 m, 3.6 mm, microfon',
+                'price': '1184.5915',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '59',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "3b7ad917aa362eac485ebce658974c35";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'DH-B2EXT80-5MP-M',
+                'name': 'Sistem supraveghere exterior basic Dahua DH-B2EXT80-5MP-M, 2 camere, 5 MP, IR 80 m, POS, IoT',
+                'price': '538.9681',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '60',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "2113d63f9f0cde86e1af442cc8f6b3de";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'DH-B4EXT80-5MP-M',
+                'name': 'Sistem supraveghere exterior basic Dahua WizSense DH-B4EXT80-5MP-M, 4 camere, 5 MP, IR 80 m, POS, IoT',
+                'price': '830.0956',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '61',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "f4fa53f35ff35841c13952f3d543c912";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'HK-4EXT40M-2MP',
+                'name': 'Sistem supraveghere exterior basic Hikvision Turbo HD HK-4EXT40M-2MP, 4 camere, 2 MP, IR 40 m, 2.8 mm',
+                'price': '853.8505',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '62',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "200cecf559dff9f4e2eb612f0beee064";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'DH-M4EXT80M-5MP',
+                'name': 'Sistem supraveghere exterior middle Dahua DH-M4EXT80M-5MP, 4 camere, 5 MP, IR 80 m, IoT, 1 TB HDD',
+                'price': '1348.8053',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '63',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "80421a04d2e2f07bbb5e4a4a8e8560aa";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'DH-C4EXT30-2MP',
+                'name': 'Sistem supraveghere exterior middle Dahua DH-C4EXT30-2MP, 4 camere, 2 MP, IR 30 m, POS, IoT, HDD 1TB',
+                'price': '1215.2214',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '64',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "b778b69698376a8c6eeefa6c56a8d6ce";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'DH-C4EXT80-5MP',
+                'name': 'Sistem supraveghere exterior complet Dahua DH-C4EXT80-5MP, 4 camere, 5 MP, IR 80 m, 1 TB HDD',
+                'price': '1356.8273',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '65',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "c5b67d9e7b848ed771c796c6e2b7e0e7";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'DH-C4EXT80M-4MP-M-V2',
+                'name': 'Sistem supraveghere exterior Dahua DH-C4EXT80M-4MP-M-V2, 4 camere, 5 MP, IR 80 m, 3.6 mm, 1 TB HDD, POS, IoT',
+                'price': '952.3528',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '66',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "0000b8c99595b727a438601bff3fe983";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'DH-C8EXT80-5MP-M',
+                'name': 'Sistem supraveghere exterior complet Dahua DH-C8EXT80-5MP-M, 8 camere, 5 MP, IR 80 m, 3.6 mm, IoT, HDD 1TB',
+                'price': '1674.1433',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '67',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "037de43c6e9e5b749bf6617fc8bf3e21";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'DH-B8EXT80-5MP-M',
+                'name': 'Sistem supraveghere exterior basic Dahua DH-B8EXT80-5MP-M, 8 camere, 5 MP, IR 80 m, IoT',
+                'price': '1337.5987',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '68',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "d557d535ee0e41ab39b1a6692db7925e";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'DH-FC4EXT30-5M-LED-A',
+                'name': 'Sistem supraveghere exterior basic Dahua Full Color DH-FC4EXT30-5M-LED-A, 4 camere, 5 MP, lumina alba 40 m, 3.6 mm, microfon, PoS, IoT',
+                'price': '1256.0114',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '69',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "e1079961ba44d95a8e728855c512ca1d";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'DH-B4EXT30-5MP',
+                'name': 'Sistem supraveghere exterior basic Dahua WizSense DH-B4EXT30-5MP, 4 camere, 5 MP, IR 30 m, 2.8 mm, PoS, IoT + HDD 1 TB',
+                'price': '1000.9651',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '70',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "ecd554756382219158191bc5196bdd42";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'ACV-C8EXT20-5MP-V2',
+                'name': 'Sistem supraveghere exterior complet Acvil Pro ACV-CM8EXT20-5MP-V2, 8 camere, 5 MP, IR 20 m, 2.8 mm, audio prin coaxial',
+                'price': '1533.1705',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '71',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "957c3d8c22a777eefb034f0c81f356e1";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'HK-4EXT40M-5MP',
+                'name': 'Sistem supraveghere exterior basic Hikvision TurboHD HK-4EXT40M-5MP, 4 camere, 5 MP, IR 40 m, 2.8 mm',
+                'price': '896.5528',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '72',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "473aace5a2a63903a2bec00d37bde505";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'DH-C2EXT80-5MP-M',
+                'name': 'Sistem supraveghere exterior complet Dahua WizSense DH-C2EXT80-5MP-M, 2 camere, 5 MP, IR 80 m, POS, IoT, HDD 1TB',
+                'price': '747.3364',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '73',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "fa9c6aafd8d260ae87c54af21dc7e013";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'ACV-B8EXT20-5MP-V2',
+                'name': 'Sistem supraveghere exterior basic Acvil Pro ACV-B8EXT20-5MP-V2, 8 camere, 5 MP, IR 20 m, 2.8 mm, audio prin coaxial',
+                'price': '1036.3701',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '74',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "2ffe807fb2238265e6db609ca0fad655";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'HK-4EXT30M-5MP-A',
+                'name': 'Sistem supraveghere exterior basic Hikvision TurboHD HK-4EXT30M-5MP-A, 4 camere, 5 MP, IR 30 m, 2.8 mm, microfon',
+                'price': '1226.8997',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '75',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "50aa5e9bd66c11c5dbd7986e54a7a117";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'DH-C4EXT80-5MP-M',
+                'name': 'Sistem supraveghere exterior complet Dahua DH-C4EXT80-5MP-M, 4 camere, 5 MP, IR 80 m, 3.6 mm, POS, IoT, HDD 1TB',
+                'price': '1371.8647',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '76',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "a3dcc27601ed92796a2e16aad46f459f";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'HK-4EXT80M-5MP',
+                'name': 'Sistem supraveghere exterior basic Hikvision TurboHD HK-4EXT80M-5MP, 4 camere, 5 MP, IR 80 m, 3.6 mm',
+                'price': '1732.2870',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '77',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "2bf85784136c8e1672815f62e3dbc8cb";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'DH-8EXT80-5M-A',
+                'name': 'Sistem de supraveghere exterior basic Dahua DH-8EXT80-5M-A, 8 camere, 5 MP, IR 80 m, 3.6 mm, POS, IoT',
+                'price': '1394.5571',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '78',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "b13715992ffc0ef7fa148e07249177e2";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'KIT/N14P/4-F22A',
+                'name': 'Sistem supraveghere exterior Imou KIT/N14P/4-F22A, 4 camere, 2MP, IR 30m, 2.8 mm, microfon + 1TB HDD',
+                'price': '1050.5900',
+                'list': 'Promotie campanii',
+
+                //'category': 'Sisteme Supraveghere Exterior/Promotie campanii/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '79',
+                'brand': ''
+            })
+
+            
+            
+                        t_product_real_url_hash = "a7ff1cc913fedf4cc79c62adfb61d2a6";
+            t_product_url_2 = "https://www.spy-shop.ro";
+            window.CategoryFilteredProducts.push({
+                'id': 'CVI-4EXT20-1080P-S',
+                'name': 'Sistem supraveghere exterior basic Dahua WizSense CVI-4EXT20-1080P-S, 4 camere, 2 MP, IR 20 m, POS, IoT',
+                'price': '667.2816',
+                'list': 'Sisteme Supraveghere Exterior',
+
+                //'category': 'Sisteme Supraveghere Exterior/',
+                'category': 'Supraveghere Video/Sisteme supraveghere video/Sisteme Supraveghere Exterior',
+                'position': '80',
+                'brand': ''
+            })
+
+                    catName = "Sisteme Supraveghere Exterior";
+        productsCount = "80";
+
+        uaeeProductImpressions( window.CategoryFilteredProducts 
