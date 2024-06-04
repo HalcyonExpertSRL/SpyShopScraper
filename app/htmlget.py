@@ -5,3 +5,4 @@ class Request:
         text = requests.get(url)
         text  = text.text
         return text
+
