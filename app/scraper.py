@@ -1,14 +1,16 @@
 import calculate
 import saveProducts
+import saveCSV
 
 URL = "https://www.spy-shop.ro/supraveghere-video/sisteme-supraveghere-exterior.html?limit=80"
 
 products = saveProducts.getProduct()
 requestInstance = calculate.Paginas()
+csv = saveCSV.CSV()
 #htmlText = requestInstance.getPages(URL)
 
 #print(htmlText)
 
-y = requestInstance.getProductNumber(URL)
-x = products.getProductAttr(URL)
+x = csv.checkAttr(URL)
+
 print(x)
