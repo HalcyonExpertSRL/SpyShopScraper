@@ -5,9 +5,9 @@ FROM python:3.10-slim
 WORKDIR /app
 
 # Copiar los archivos desde el directorio 'app' al contenedor
-COPY app/htmlget.py .
-COPY app/scraper.py .
-COPY app/requirements.txt .
+COPY ./app/htmlget.py .
+COPY ./app/scraper.py .
+COPY ./app/requirements.txt .
 
 
 # Instalar las dependencias necesarias

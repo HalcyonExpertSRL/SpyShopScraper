@@ -2,6 +2,8 @@ import htmlget
 
 URL = "http://www.spyshop.ro"
 
-x = htmlget.url(URL)
+requestInstance = htmlget.Request()
 
-print(x)
+htmlText = requestInstance.url(URL)
+
+print(htmlText)
