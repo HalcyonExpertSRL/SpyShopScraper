@@ -9,6 +9,6 @@ class Urls():
         soup = BeautifulSoup(htmlText, 'html.parser') 
         urls = []
         for a in soup.find_all('a', href=True):
-            if a['href'].startswith('https'):
+            if a['href'].startswith('https://www.spy-shop.ro/'):
                 urls.append(a['href'])
         return urls
