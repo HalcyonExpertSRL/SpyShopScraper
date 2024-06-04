@@ -4,9 +4,11 @@ FROM python:3.10-slim
 # Establecer el directorio de trabajo dentro del contenedor
 WORKDIR /app
 
-# Copiar los archivos requirements.txt y scraper.py al contenedor
-COPY requirements.txt requirements.txt
-COPY scraper.py scraper.py
+# Copiar los archivos desde el directorio 'app' al contenedor
+COPY app/htmlget.py .
+COPY app/scraper.py .
+COPY app/requirements.txt .
+
 
 # Instalar las dependencias necesarias
 RUN pip install --no-cache-dir -r requirements.txt
