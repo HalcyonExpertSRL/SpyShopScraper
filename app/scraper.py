@@ -7,10 +7,6 @@ requestInstance = calculate.Paginas()
 
 #print(htmlText)
 
-x = requestInstance.getProductChain(URL)
-
-
-print(x)
-y = requestInstance.getProductNumber(x)
+y = requestInstance.getProductNumber(URL)
 
 print(y)

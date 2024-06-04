@@ -12,8 +12,15 @@ class Paginas():
         soup = BeautifulSoup(htmlText, 'html.parser')
         target_div = soup.find('div', class_='pull-right products-nr')
         return target_div
-    
-    def getProductNumber(self, target_div):
+
+    def getProductNumber(self, URL):
+        target_div = self.getProductChain(URL)
+        list = []
+        target_div = str(target_div)
         for number in target_div.split():
-            if number.isdigit():
-                return number
+            try: 
+                list.append(int(number))
+            except ValueError:
+                pass
+        list = int(list[0])
+        return list
