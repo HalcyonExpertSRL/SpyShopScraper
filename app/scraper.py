@@ -12,5 +12,5 @@ csv = saveCSV.CSV()
 #print(htmlText)
 
 x = csv.checkAttr(URL)
-
+csv.mergeLines()
 print(x)
