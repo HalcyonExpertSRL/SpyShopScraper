@@ -10,5 +10,5 @@ requestInstance = calculate.Paginas()
 #print(htmlText)
 
 y = requestInstance.getProductNumber(URL)
-x = products.getProductID(URL)
+x = products.getProductAttr(URL)
 print(x)

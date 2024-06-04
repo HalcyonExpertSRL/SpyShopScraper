@@ -1,8 +1,8 @@
 import htmlget
 from bs4 import BeautifulSoup
-
+import json
 class getProduct():
-    def getProductInfo(self, URL):
+    def getProductBulk(self, URL):
         requestInstance = htmlget.Request()
         htmlText = requestInstance.url(URL)
 
@@ -20,10 +20,20 @@ class getProduct():
         else:
             return None
 
-    def getProductID(self, URL):
-        extracted_content = self.getProductInfo(URL)
+    def getProductList(self, URL):
+        extracted_content = self.getProductBulk(URL)
         list = []
         for item in extracted_content:
             if "id" in item:
                 list.append(item)
         return list[0]
+
+    def getProductAttr(self, URL):
+        lista = self.getProductList(URL)
+        lista = str(lista)
+        start_index = lista.index("'id'") + 1
+        end_index = lista.rindex("'brand'")
+        extractedList = lista[start_index:end_index]
+        extractedList = list(extractedList.split("\n"))
+        for x in extractedList:
+            print(x)
