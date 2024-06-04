@@ -24,4 +24,3 @@ class Paginas():
                 pass
         list = int(list[0])
         return list
-    
