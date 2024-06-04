@@ -2,7 +2,7 @@ import htmlget
 from bs4 import BeautifulSoup
 
 class getProduct():
-    def getProductID(self, URL):
+    def getProductInfo(self, URL):
         requestInstance = htmlget.Request()
         htmlText = requestInstance.url(URL)
 
@@ -11,15 +11,19 @@ class getProduct():
 
         if script_tag:
             content = script_tag.string
-            # Extract the desired content from the script tag
-            # You can use string manipulation or regular expressions to extract the content
-
-            # Example: Extracting content between parentheses
-            start_index = content.index("'") + 1
-            end_index = content.rindex("'")
+            start_index = content.index("(") + 1
+            end_index = content.rindex(")")
             extracted_content = content[start_index:end_index]
-
-            # Return the extracted content
+            extracted_content = str(extracted_content)
+            extracted_content = list(extracted_content.split("window.CategoryFilteredProducts.push"))
             return extracted_content
         else:
             return None
+
+    def getProductID(self, URL):
+        extracted_content = self.getProductInfo(URL)
+        list = []
+        for item in extracted_content:
+            if "id" in item:
+                list.append(item)
+        return list[0]
