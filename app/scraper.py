@@ -6,7 +6,6 @@ URL = "https://www.spy-shop.ro"
 
 '''
 products = saveProducts.getProduct()
-csv = saveCSV.CSV()
 
 #print(htmlText)
 
@@ -17,13 +16,17 @@ isntance =  getUrls.Urls()
 
 x = isntance.getUrls(URL)
 print(x) 
+
 '''
+requestInstanceCSV = htmlget.Request()
+csv = saveCSV.CSV()
 
-requestInstance = htmlget.Request()
 
-requestInstanceCSV = saveCSV.CSV()
-
-listUrls = requestInstance.getUrls(URL)
-
+listUrls = requestInstanceCSV.getUrls(URL)
+'''
 for item in listUrls:
-    requestInstanceCSV.checkAttr(item)
+    csv.checkAttr(item)
+'''
+csv.saveToJson()
+
+
