@@ -14,6 +14,7 @@ class CSV():
                             item2 = item2.replace(", ", " ")
                             item2 = item2.replace("                ", "")
                             file.write(f"{item2}\n")
+                            print(f"{item2}writed")
             return "Done"
         except Exception as e:
             return f"Error occurred: {str(e)}"

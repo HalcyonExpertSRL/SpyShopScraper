@@ -13,5 +13,6 @@ class Request:
         urls = []
         for a in soup.find_all('a', href=True):
             if a['href'].startswith('https://www.spy-shop.ro/'):
-                urls.append(a['href'])
+                url = a['href'] + '?limit=80'
+                urls.append(url)
         return urls
