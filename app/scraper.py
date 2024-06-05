@@ -28,4 +28,4 @@ for item in listUrls:
 '''
 csv = saveCSV.CSV()
 
-csv.mergeLines()
+csv.checkAttr('https://www.spy-shop.ro')
