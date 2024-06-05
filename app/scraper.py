@@ -16,15 +16,16 @@ isntance =  getUrls.Urls()
 
 x = isntance.getUrls(URL)
 print(x) 
-
+'''
 '''
 requestInstanceCSV = htmlget.Request()
-csv = saveCSV.CSV()
 
 
 listUrls = requestInstanceCSV.getUrls(URL)
 
 for item in listUrls:
     csv.checkAttr(item)
+'''
+csv = saveCSV.CSV()
 
-
+csv.mergeLines()

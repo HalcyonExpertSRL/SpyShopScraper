@@ -23,7 +23,7 @@ class CSV():
         try:
             with open('test.csv', 'r') as file:
                 lines = file.readlines()
-            merged_lines = [','.join(lines[i:i+4]).replace('\n', '') for i in range(0, len(lines), 4)]
+            merged_lines = [','.join(lines[i:i+3]).replace('\n', '') for i in range(0, len(lines), 4)]
             with open('merged.csv', 'w') as file:
                 file.write('\n'.join(merged_lines))
             return "Merged lines and saved to merged.csv"

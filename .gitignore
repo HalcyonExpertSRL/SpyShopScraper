@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+*.csv
 # C extensions
 *.so
 
@@ -139,7 +139,7 @@ venv.bak/
 
 # mkdocs documentation
 /site
-
+test.csv
 # mypy
 .mypy_cache/
 .dmypy.json
