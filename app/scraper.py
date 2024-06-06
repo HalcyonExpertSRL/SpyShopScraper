@@ -44,7 +44,7 @@ def art(URL):
 
 def loop(URL):
     requestInstance = htmlget.Request()
-    urls = requestInstance.getUrls(URL)
+    urls = requestInstance.getUrlsAltPages(URL)
     for url in urls:
         art(url)
 
