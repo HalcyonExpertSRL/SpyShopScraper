@@ -14,7 +14,7 @@ class Request:
         urls = []
         for a in soup.find_all('a', href=True):
             if a['href'].startswith('https://www.spy-shop.ro/'):
-                url = a['href'] + '?limit=80'
+                url = a['href']
                 urls.append(url)
         return urls
 
@@ -23,9 +23,13 @@ class Request:
         calc = calculate.Paginas()
         for page in urls:
             try:
-                for i in range(0, int((calc.getProductNumber(page)/80 - 1))):
-                    urls.append(f"{page}&p={i}")
+                product_number = calc.getProductNumber(page)
+                print(f"Product number: {product_number}")
+                if product_number is not None:
+                    page_count = int(product_number / 80)
+                    if page_count > 0:
+                        for i in range(2, page_count + 1):
+                            urls.append(page + f"?p={i}")
             except Exception as e:
                 print(f"Error occurred while processing page: {page}")
                 print(f"Error message: {str(e)}")
-        return urls

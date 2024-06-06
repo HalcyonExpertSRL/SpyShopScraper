@@ -46,6 +46,7 @@ def loop(URL):
     requestInstance = htmlget.Request()
     urls = requestInstance.getUrlsAltPages(URL)
     for url in urls:
+        print(f"Processing URL: {url}")
         art(url)
 
 loop(URL)
