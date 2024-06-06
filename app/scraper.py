@@ -34,7 +34,7 @@ def menu():
 
 def art(URL):
     prd = saveProducts.getProduct()
-    products = prd.getProductAttr(URL)
+    products = prd.clean_product_data(URL)
     for product in products:
         print(product)
         print("---------------------------------------------------------")

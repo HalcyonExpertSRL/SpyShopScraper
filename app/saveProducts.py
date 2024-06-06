@@ -40,7 +40,9 @@ class getProduct():
         return extractedList
     
     def clean_product_data(self, URL):
-        cleaned_data = self.getProductList(URL)
+        cleaned_data = []
+        product_data = self.getProductList(URL)
+
         for product in product_data:
             product_dict = {}
             for line in product.split(","):
