@@ -1,6 +1,6 @@
 import htmlget
 from bs4 import BeautifulSoup
-
+import csv
 class getProduct():
     def getProductBulk(self, URL):
         requestInstance = htmlget.Request()
@@ -46,11 +46,23 @@ class getProduct():
         for product in product_data:
             product_dict = {}
             for line in product.split(","):
-                if "id" in line:
-                    product_dict['id'] = line.split(":")[1].strip().strip("'")
-                elif "name" in line:
-                    product_dict['name'] = line.split(":")[1].strip().strip("'")
-                elif "price" in line:
-                    product_dict['price'] = line.split(":")[1].strip().strip("'")
-            cleaned_data.append(product_dict)
+                if "'id':" in line:
+                    product_dict['id'] = line.split(":")[1].strip().strip("'").strip()
+                elif "'name':" in line:
+                    name_parts = line.split(":")[1:]
+                    product_dict['name'] = ":".join(name_parts).strip().strip("'").strip()
+                elif "'price':" in line:
+                    product_dict['price'] = line.split(":")[1].strip().strip("'").strip()
+            if 'id' in product_dict and 'name' in product_dict and 'price' in product_dict:
+                cleaned_data.append(product_dict)
         return cleaned_data
+    
+    def save_to_csv(self, cleaned_data, filename):
+        keys = cleaned_data[0].keys()
+        with open(filename, 'w', newline='') as output_file:
+            dict_writer = csv.DictWriter(output_file, fieldnames=keys)
+            dict_writer.writeheader()
+            dict_writer.writerows(cleaned_data)
+
+
+
