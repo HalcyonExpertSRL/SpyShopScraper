@@ -21,11 +21,13 @@ class getProduct():
 
     def getProductList(self, URL):
         extracted_content = self.getProductBulk(URL)
-        list = []
+        if extracted_content is None:
+            return []
+        product_list = []
         for item in extracted_content:
             if "id" in item:
-                list.append(item)
-        return list
+                product_list.append(item)
+        return product_list
 
     def getProductAttr(self, URL):
         lista = self.getProductList(URL)
@@ -58,8 +60,11 @@ class getProduct():
         return cleaned_data
     
     def save_to_csv(self, cleaned_data, filename):
+        if not cleaned_data:  # Check if cleaned_data is empty
+            print("No data to write to CSV.")
+            return
         keys = cleaned_data[0].keys()
-        with open(filename, 'w', newline='') as output_file:
+        with open(filename, 'a', newline='') as output_file:
             dict_writer = csv.DictWriter(output_file, fieldnames=keys)
             dict_writer.writeheader()
             dict_writer.writerows(cleaned_data)

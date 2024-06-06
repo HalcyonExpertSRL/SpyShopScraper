@@ -3,7 +3,7 @@ import saveProducts
 import saveCSV
 import htmlget
 import csv
-URL = "https://www.spy-shop.ro"
+URL = "https://www.spy-shop.ro/"
 
 def menu():
     print("Menu:")
@@ -45,8 +45,7 @@ def art(URL):
 def loop(URL):
     requestInstance = htmlget.Request()
     urls = requestInstance.getUrls(URL)
-    prd = saveProducts.getProduct()
-    products = prd.clean_product_data(URL)
     for url in urls:
-        print("xd")
-        prd.save_to_csv(products, 'products.csv')
+        art(url)
+
+loop(URL)
