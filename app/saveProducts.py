@@ -38,3 +38,17 @@ class getProduct():
             extracted_item = list(extracted_item.split("\n"))
             extractedList.append(extracted_item)
         return extractedList
+    
+    def clean_product_data(self, URL):
+        cleaned_data = self.getProductList(URL)
+        for product in product_data:
+            product_dict = {}
+            for line in product.split(","):
+                if "id" in line:
+                    product_dict['id'] = line.split(":")[1].strip().strip("'")
+                elif "name" in line:
+                    product_dict['name'] = line.split(":")[1].strip().strip("'")
+                elif "price" in line:
+                    product_dict['price'] = line.split(":")[1].strip().strip("'")
+            cleaned_data.append(product_dict)
+        return cleaned_data

@@ -2,7 +2,7 @@ import calculate
 import saveProducts
 import saveCSV
 import htmlget
-URL = "https://www.spy-shop.ro"
+URL = "https://www.spy-shop.ro/supraveghere-video/sisteme-supraveghere-video.html?limit=80"
 
 def menu():
     print("Menu:")
@@ -32,4 +32,11 @@ def menu():
 
 
 
-menu()
+def art(URL):
+    prd = saveProducts.getProduct()
+    products = prd.getProductAttr(URL)
+    for product in products:
+        print(product)
+        print("---------------------------------------------------------")
+
+art(URL)
