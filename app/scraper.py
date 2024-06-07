@@ -3,7 +3,7 @@ import saveProducts
 import saveCSV
 import htmlget
 import csv
-URL = "https://www.spy-shop.ro/"
+URL = "https://www.spy-shop.ro/supraveghere-video/sisteme-supraveghere-video.html/"
 
 def menu():
     print("Menu:")
@@ -49,4 +49,17 @@ def loop(URL):
         print(f"Processing URL: {url}")
         art(url)
 
-loop(URL)
+def getReq(URL):
+    requestInstance = htmlget.Request()
+    urls = requestInstance.url(URL)
+    print (urls)
+
+
+def getUrlsFromProducts(URL):
+    req = htmlget.Request()
+    prodUrlList = req.getProductsUrls(URL)
+    for product in prodUrlList:
+        print(product) 
+
+
+getUrlsFromProducts(URL)

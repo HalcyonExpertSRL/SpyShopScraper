@@ -33,3 +33,11 @@ class Request:
             except Exception as e:
                 print(f"Error occurred while processing page: {page}")
                 print(f"Error message: {str(e)}")
+
+
+    def getProductsUrls(self, URL):
+        URL = self.url(URL)
+        soup = BeautifulSoup(URL, 'html.parser')
+        product_names = soup.find_all('h2', class_='product-name')
+        urls = [product.find('a')['href'] for product in product_names if product.find('a')]
+        return urls
