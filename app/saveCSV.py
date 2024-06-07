@@ -1,5 +1,4 @@
 import saveProducts
-import pandas as pd
 
 class CSV():
     def checkAttr(self, URL):
