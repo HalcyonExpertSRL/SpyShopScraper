@@ -1,8 +1,6 @@
-import calculate
 import saveProducts
 import saveCSV
 import htmlget
-import csv
 URL = "https://www.spy-shop.ro/supraveghere-video/sisteme-supraveghere-video.html/"
 
 def menu():
