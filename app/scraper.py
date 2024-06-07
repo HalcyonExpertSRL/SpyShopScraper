@@ -57,7 +57,7 @@ def getReq(URL):
 
 def getUrlsFromProducts(URL):
     req = htmlget.Request()
-    prodUrlList = req.getProductsUrls(URL)
+    prodUrlList: list = req.getProductsUrls(URL)
     for product in prodUrlList:
         print(product) 
 
